@@ -1,2 +1,12 @@
 # Tg_music-bot
-Tg_music-bot - there is a telegram bot which sends music in response to a user request. Music exited youtube video using google api
+Телеграм бот отправляющий музыку пользователю в ответ на запрос, с использованием google api.
+### Технологии
+telebot
+### Запуск проекта
+- Установите и активируйте виртуальное окружение
+- Установите зависимости из файла requirements.txt
+```
+pip install -r requirements.txt
+``` 
+### Авторы
+# Alexey Zelyak zelyak5654@gmail.com
